@@ -1,0 +1,42 @@
+{
+  "name": "cornydan-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio with parallax effect for Corny Dan",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ]
+  },
+  "keywords": [
+    "corny-dan-portfolio"
+  ],
+  "author": "huancao",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^2.1.3",
+    "rellax": "^1.12.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/preset-react": "^7.18.6"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

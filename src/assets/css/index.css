@@ -1,0 +1,23 @@
+.my-button {
+    outline: none;
+    border-radius: 1em;
+}
+
+.my-container {
+    background-color: black;
+    align-items: center;
+    height: 100% !important;
+    width: 100% !important;
+    color: white;
+}
+
+.heading {
+    font-size: 46px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.section-intro {
+    transition: transform 3s;
+}
