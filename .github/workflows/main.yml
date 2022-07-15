@@ -20,6 +20,6 @@ jobs:
       - name: Deploy to GH Pages
         run: |
           git config user.email ritoalpha1843@gmail.com
-          git config user.name huan.cao
-          git remote set-url origin https://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@github.com/Cumbercubie/cornydan-portfolio.git
+          git config user.name Cumbercubie
+          git remote set-url origin https://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@github.com/Cumbercubie/cornydan-portfolio.git/
           npm run deploy
