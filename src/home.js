@@ -1,5 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
+import Resume from "./components/resume";
 import ResumeSection from "./components/resume-section";
 import TestAnimation from "./components/test-animation";
 export default function Home() {
@@ -55,10 +56,10 @@ export default function Home() {
           </Col>
         </Row>
       </section>
-
       {/* <ResumeSection />
        */}
-      <TestAnimation />
+      {/* <TestAnimation /> */}
+      <Resume />
     </Container>
   );
 }

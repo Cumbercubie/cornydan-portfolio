@@ -1,3 +1,10 @@
+:root {
+    --primary-color: #000;
+    --primary-text-color: #fff;
+    --complementary-text-color: #ffbd39;
+    --font-size: 13px;
+}
+
 .my-button {
     outline: none;
     border-radius: 1em;
@@ -21,3 +28,5 @@
 .section-intro {
     transition: transform 3s;
 }
+
+@import "milestone.css"

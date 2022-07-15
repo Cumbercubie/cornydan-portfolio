@@ -27,7 +27,7 @@ const App = () => {
       if (elementInView(el, 100)) {
         displayScrollElement(el);
       } else {
-        hideScrollElement(el);
+        // hideScrollElement(el);
       }
     });
   };
