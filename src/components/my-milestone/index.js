@@ -6,7 +6,7 @@ export default function MyMilestone({
   description,
 }) {
   return (
-    <div className="milestone animated js-scroll fadeInUp">
+    <div className="milestone">
       <span className="milestone-date">{date}</span>
       <h2>{position}</h2>
       <span className="mt-4">{workplace}</span>

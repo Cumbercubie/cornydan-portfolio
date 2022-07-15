@@ -24,7 +24,7 @@ const App = () => {
     const scrollElements = document.querySelectorAll(".js-scroll");
 
     scrollElements.forEach((el) => {
-      if (elementInView(el, 90)) {
+      if (elementInView(el, 100)) {
         displayScrollElement(el);
       } else {
         // hideScrollElement(el);

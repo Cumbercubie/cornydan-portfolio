@@ -49,7 +49,7 @@ export default function Resume() {
     <section>
       <Row>
         {resumeList.map((i) => (
-          <Col md={6}>
+          <Col md={6} className={"js-scroll fade-in-bottom"}>
             <MyMilestone {...i} />
           </Col>
         ))}
