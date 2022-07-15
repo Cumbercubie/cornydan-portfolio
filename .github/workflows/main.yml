@@ -18,4 +18,7 @@ jobs:
       - name: Install Packages
         run: npm ci
       - name: Deploy to GH Pages
-        run: npm run deploy
+        run: |
+          git config user.email ${{secrets.PERSONAL_EMAIL}}
+          git config user.name ${{secrets.PERSONAL_USERNAME}}
+          npm run deploy
