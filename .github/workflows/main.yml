@@ -18,4 +18,4 @@ jobs:
       - name: Install Packages
         run: npm ci
       - name: Deploy to GH Pages
-        run: npm deploy
+        run: npm run deploy
