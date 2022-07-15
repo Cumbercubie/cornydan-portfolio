@@ -19,6 +19,6 @@ jobs:
         run: npm ci
       - name: Deploy to GH Pages
         run: |
-          git config user.email ${{secrets.PERSONAL_EMAIL}}
-          git config user.name ${{secrets.PERSONAL_USERNAME}}
+          git config user.email ritoalpha1843@gmail.com
+          git config user.name huan.cao
           npm run deploy
