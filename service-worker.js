@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cornydan-potfolio/precache-manifest.8a2f525aa3d1aaa14913711943abad1a.js"
+  "/cornydan-portfolio/precache-manifest.15f3494f4d4bd92ece3b4afbbbabfa39.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/cornydan-potfolio/index.html", {
+workbox.routing.registerNavigationRoute("/cornydan-portfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

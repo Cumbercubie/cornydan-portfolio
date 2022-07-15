@@ -1,15 +1,15 @@
 {
-  "main.css": "/cornydan-potfolio/static/css/main.93a71c83.chunk.css",
-  "main.js": "/cornydan-potfolio/static/js/main.ba918ff6.chunk.js",
-  "main.js.map": "/cornydan-potfolio/static/js/main.ba918ff6.chunk.js.map",
-  "static/css/1.66c02a93.chunk.css": "/cornydan-potfolio/static/css/1.66c02a93.chunk.css",
-  "static/js/1.5333f5ad.chunk.js": "/cornydan-potfolio/static/js/1.5333f5ad.chunk.js",
-  "static/js/1.5333f5ad.chunk.js.map": "/cornydan-potfolio/static/js/1.5333f5ad.chunk.js.map",
-  "runtime~main.js": "/cornydan-potfolio/static/js/runtime~main.f9b1f39c.js",
-  "runtime~main.js.map": "/cornydan-potfolio/static/js/runtime~main.f9b1f39c.js.map",
-  "static/css/main.93a71c83.chunk.css.map": "/cornydan-potfolio/static/css/main.93a71c83.chunk.css.map",
-  "static/css/1.66c02a93.chunk.css.map": "/cornydan-potfolio/static/css/1.66c02a93.chunk.css.map",
-  "index.html": "/cornydan-potfolio/index.html",
-  "precache-manifest.8a2f525aa3d1aaa14913711943abad1a.js": "/cornydan-potfolio/precache-manifest.8a2f525aa3d1aaa14913711943abad1a.js",
-  "service-worker.js": "/cornydan-potfolio/service-worker.js"
+  "main.css": "/cornydan-portfolio/static/css/main.0a401265.chunk.css",
+  "main.js": "/cornydan-portfolio/static/js/main.b94e2d15.chunk.js",
+  "main.js.map": "/cornydan-portfolio/static/js/main.b94e2d15.chunk.js.map",
+  "static/css/1.66c02a93.chunk.css": "/cornydan-portfolio/static/css/1.66c02a93.chunk.css",
+  "static/js/1.5333f5ad.chunk.js": "/cornydan-portfolio/static/js/1.5333f5ad.chunk.js",
+  "static/js/1.5333f5ad.chunk.js.map": "/cornydan-portfolio/static/js/1.5333f5ad.chunk.js.map",
+  "runtime~main.js": "/cornydan-portfolio/static/js/runtime~main.b1a8f5f5.js",
+  "runtime~main.js.map": "/cornydan-portfolio/static/js/runtime~main.b1a8f5f5.js.map",
+  "static/css/main.0a401265.chunk.css.map": "/cornydan-portfolio/static/css/main.0a401265.chunk.css.map",
+  "static/css/1.66c02a93.chunk.css.map": "/cornydan-portfolio/static/css/1.66c02a93.chunk.css.map",
+  "index.html": "/cornydan-portfolio/index.html",
+  "precache-manifest.15f3494f4d4bd92ece3b4afbbbabfa39.js": "/cornydan-portfolio/precache-manifest.15f3494f4d4bd92ece3b4afbbbabfa39.js",
+  "service-worker.js": "/cornydan-portfolio/service-worker.js"
 }
