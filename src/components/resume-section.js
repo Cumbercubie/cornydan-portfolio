@@ -1,6 +1,4 @@
 import React from "react";
-import { Col, Container } from "react-bootstrap";
-import Parallax from "./rellax-wrapper";
 
 export default function ResumeSection() {
   return (

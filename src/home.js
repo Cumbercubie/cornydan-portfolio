@@ -1,8 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import Resume from "./components/resume";
-import ResumeSection from "./components/resume-section";
-import TestAnimation from "./components/test-animation";
 export default function Home() {
   const info = [
     {
@@ -31,7 +29,10 @@ export default function Home() {
       <section>
         <Row>
           <Col>
-            <img src="https://cdn.pixabay.com/photo/2018/04/27/03/50/portrait-3353699_960_720.jpg" />
+            <img
+              src="https://cdn.pixabay.com/photo/2018/04/27/03/50/portrait-3353699_960_720.jpg"
+              alt=""
+            />
           </Col>
           <Col>
             <span className="heading">About Me</span>
