@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "Portfolio with parallax effect for Corny Dan",
   "main": "index.js",
+  "homepage": "https://Cumbercubie.github.io/cornydan-portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "babel": {
     "presets": [
@@ -22,6 +25,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.1.3",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.4.0",
     "react-dom": "^18.2.0",

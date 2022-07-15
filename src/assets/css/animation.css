@@ -47,7 +47,7 @@ body {
 
 
 .scrolled.fadeInUp {
-    animation: fadeInUp 1s ease-in;
+    animation: fadeInUp .5s ease-in;
 }
 
 
