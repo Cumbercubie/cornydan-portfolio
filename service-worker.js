@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cornydan-portfolio/precache-manifest.bd6fdab5297d2ebe3d1e4f87f3283b12.js"
+  "/cornydan-portfolio/precache-manifest.0f3c27735b032f702d441f5dfd9c6a2e.js"
 );
 
 workbox.clientsClaim();
